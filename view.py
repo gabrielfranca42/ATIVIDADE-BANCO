@@ -12,5 +12,5 @@ class ClienteView:
             print("Cliente não encontrado.")
 
     @staticmethod
-    def mostrar_mensagem(msg):
+    def mostrar_mensagem(msg):#dsss
         print(msg)
